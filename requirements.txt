@@ -1,0 +1,12 @@
+# Core dependencies
+llama-index
+llama-index-embeddings-huggingface
+llama-index-llms-groq
+chromadb
+groq
+fpdf
+streamlit
+openai
+google-generativeai
+cryptography
+tiktoken
